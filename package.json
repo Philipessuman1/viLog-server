@@ -8,9 +8,7 @@
     "npm": "8.19.2"
   },
   "scripts": {
-    "start": "node build/index.js",
-    "postinstall": "tsc",
-    "build": "tsc"
+    "start": "node build/index.js"
   },
   "keywords": [],
   "author": "",
