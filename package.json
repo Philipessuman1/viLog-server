@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node build/index.js",
-    "postinstall": "tsc"
+    "postinstall": "tsc",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
